@@ -1,0 +1,55 @@
+print("\nNama Orangtua v2.0.0 (C) 2016-2018 GSOFT CORP")
+print("\n")
+print("Ini adalah semua nama orang tua dari angkatan 28th\nSMP Pamardi Yuwana Bhakti Kelas 8.1\nDimohon anda tidak tersinggung jika nama orang tua anda disebut\nJika tidak setuju maka tolong tutup program ini")
+print("\n\n")
+name = input("Siapa nama teman angkatan 28th kelas 8.1? ")
+
+if name == 'Credit' :
+	print('Chadinar Geraldi Purnama : Developer,\nEfran Nathanael : Inspirasi/Pembantu\nYang suka ngatain ortu dikelas: Pembantu nama orang tua')
+elif name == 'Geraldi' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Dian Suminar')
+elif name == 'Enos' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Erwina\nAyah : James Karosekali')
+elif name == 'Nevan' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Shinta Dewantari Anggraeni\nAyah : Dapot Mangisi Siagian')
+elif name == 'Nael' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Deni Rivanti')
+elif name == 'Cella' :
+	print('Nama orang tua dari ',name,' adalah :','\nAyah : Ujang Wijaya')
+elif name == 'Farel' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Indrawati Purnamasari\nAyah : Mattheus Hutauruk')
+elif name == 'Kinanti' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Siska Becik\nAyah : Hari')
+elif name == 'David' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Maria\nAyah : Marantika Revando Darmanik')
+elif name == 'Elia' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Yohana\nAyah : Sahat Sihombing')
+elif name == 'Lio' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Trisna Bertutu\nAyah : Awan Mangatas')
+elif name == 'Fitrah' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Ayu\nAyah : Djarot Eko Suseno')
+elif name == 'Willy' :
+	print('Nama orang tua dari ',name,' adalah :','\nAyah : Sunardi')
+elif name == 'Kevin E' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Ella')
+elif name == 'Aldo' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Sri Rummigati\nAyah : Melky')
+elif name == 'Felice' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Meiny Purba\nPapa : Mildan Simatupang')
+elif name == 'Fien' :
+	print('Nama orang tua dari ',name,' adalah :',"\nMama : Defrin Sangraja\nAyah : Cupang or Hendrik?")
+elif name == 'Karin' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Ika Sartika')
+elif name == 'Berta' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Maria Tjong Kiat Tjen\nAyah : Robertus Sutowo')
+elif name == 'Agnes' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Elida') 
+elif name == 'TEST-NAME' :
+        x = input("Siapa Nama Anak? ")
+        y = input("Siapa Nama Ibunya? ")
+        z = input("Siapa Nama Ayahnya? ")
+        print('Nama orang tua dari ',x,' adalah :','\nMama : ',y,'\nAyah : ',z)
+
+else :
+	print('\n')
+	print('Error 404\nNAME_NOT_FOUND_OR_UNKNOWN_STRING\nIf you get this error make sure you:\n-Use (C)apital letter for the name\n-Check your typing before press ENTER\n-Make sure you are not an idiot\n\n(c) 2016-2018 GSoft Corp')

@@ -1,0 +1,60 @@
+print("\nNama Orangtua(TENGIL VERSION) vT2.0.0 (C) 2016-2018 GSOFT CORP")
+print("\n")
+print("Ini adalah semua nama orang tua dari angkatan 28th\nSMP Pamardi Yuwana Bhakti Kelas 8.1\nDimohon anda tidak tersinggung jika nama orang tua anda disebut\nJika tidak setuju maka Jangan ngatain nama orangtua dan tutup program ini")
+print("\n\nJika Anak Tengil Ngatain Ortu Elu, Loe boleh balas pakai Program ini!")
+name = input("Siapa nama teman angkatan 28th kelas 8.1? ")
+
+if name == 'Credit' :
+	print('Chadinar Geraldi Purnama : Developer,\nEfran Nathanael : Inspirasi/Pembantu\nYang suka ngatain ortu dikelas: Pembantu nama orang tua')
+elif name == 'Geraldi' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : INGIN(Balas aja pakai kata2 napa?)')
+elif name == 'Enos' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Erwina\nAyah : James Karosekali\nTING TING  TING TING TING TING!\nKENTONGAN JAMES BERBUNYI TIAP MAU DOA JAM 12 SEBELUM ISTIRAHAT')
+elif name == 'Nevan' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Shinta Dewantari Anggraeni\nAyah : Dapot Mangisi Siagian\nSHINTAi Rambutmu, POTong rambut tiap hari\nAku lagi MeNGISI air DiPOT')
+elif name == 'Nael' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Deni Rivanti\nCAGUR!\nTempat untuk mengasuh anak yatim piatu yaitu P(V)ANTI ASUHAN!')
+elif name == 'Cella' :
+	sad = input("Masukan Kata Ledekan atau pencet ENTER kalau tidak mau diISI:")
+	print('Nama orang tua dari ',name,' adalah :','\nAyah : Ujang Wijaya\n',sad)
+elif name == 'Farel' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Indrawati Purnamasari\nAyah : Mattheus Hutauruk\nTembakan Maut Teus Teus Teus Teus\nAduh, Aku ditembak jadi MATHE\nBunyi Ambulance niNONINONINONINONINONINONINONINONIno')
+elif name == 'Kinanti' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Siska Becik\nAyah : Hari\nAduh HARI INI BECeK LANTAINYA\n Pos buat jaga malam ialah SISKAmpling')
+elif name == 'David' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Maria\nAyah : Marantika Revando Darmanik\n Ave Ave Ave MARIA\n TIK(A) TIK(A) TIK(A) BUNYI TIKA DI****(DISENSOR KARENA INI ORANGTUA YANG LAIN) GENTENG')
+elif name == 'Elia' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Yohana\nAyah : Sahat Sihombing\n Yang Sakit DiSEHATkan')
+elif name == 'Lio' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Trisna Bertutu\nAyah : Awan Mangatas\n ^aku lagi nunjuk ke ^^^')
+elif name == 'Fitrah' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Ayu\nAyah : Djarot Eko Suseno')
+elif name == 'Willy' :
+	print('Nama orang tua dari ',name,' adalah :','\nAyah : Sunardi\nTau Batik di Malioboro,Yogyakarta?\nNamanya BATIK SOENARDI Tapi sayang SU nya pakai ejaan lama')
+elif name == 'Kevin E' :
+	sad = input("Masukan Kata Ledekan atau pencet ENTER kalau tidak mau diISI:")
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Ella\n',sad)
+elif name == 'Aldo' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Sri Rummigati\nAyah : Melky\nRUMMM RUMMM RUMMM AKHIRNYA BAPAK PULANG\nwaktu dirumah :\nAnak itu dikasih permen MELKYTA oleh bapaknya\nIbu : MENTANG-MENTANG CARI DUIT BELIIN ANAK SEMBARANGAN!\n Coba lihat video ini di youtube : https://www.youtube.com/watch?v=k3r558_XaoY&feature=youtu.be&t=17s')
+elif name == 'Felice' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Meiny Purba\nPapa : Mildan Simatupang\nZAMAN PURBA')
+elif name == 'Fien' :
+	print('Nama orang tua dari ',name,' adalah :',"\nMama : Defrin Sangraja\nAyah : Hendrik\nHendrik? What do you mean? Hedrick Himmler from Hitler's Nazi Party?\nAlso Fien's Father name isn't Cupang but Hendrik\nDEk tolong PRINT dong\nok kak\nBunyi FRINTer:\nFRIN FRIN FRIN FRIN\nhabis itu kakak mau makan PiSANG RAJA")
+elif name == 'Karin' :
+	sad = input("Masukan Kata Ledekan atau pencet ENTER kalau tidak mau diISI:")
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Ika Sartika\n',sad)
+elif name == 'Berta' :
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Maria Tjong Kiat Tjen\nAyah : Robertus Sutowo\nave ave ave MARIA!')
+elif name == 'Agnes' :
+	sad = input("Masukan Kata Ledekan atau pencet ENTER kalau tidak mau diISI:")
+	print('Nama orang tua dari ',name,' adalah :','\nMama : Elida\n',sad)
+elif name == 'TEST-NAME' :
+        x = input("Siapa Nama Anak? ")
+        y = input("Siapa Nama Ibunya? ")
+        z = input("Siapa Nama Ayahnya? ")
+        ledek = input("Kamu mau ledek apa? ")
+        print('Nama orang tua dari ',x,' adalah :','\nMama : ',y,'\nAyah : ',z,'\n',ledek)
+
+else :
+	print('\n')
+	print('Error 404\nNAME_NOT_FOUND_OR_UNKNOWN_STRING\nIf you get this error make sure you:\n-Use (C)apital letter for the name\n-Check your typing before press ENTER\n-Make sure you are not an idiot\n\n(c) 2016-2018 GSoft Corp')
